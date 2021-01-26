@@ -52,4 +52,6 @@ Before we start the BIG-IP configuration, we need to make sure the cloud provide
 
 [Click here for the BIG-IP configuration steps.](./documentation/BIG_IP_IPsec_config.md)
 
+### Troubleshooting Tips
 
+[Click here for the BIG-IP configuration steps.](./documentation/troubleshooting.md)
